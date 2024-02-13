@@ -1,0 +1,11 @@
+Two types of dependencies
+1) Dev and 2)normal
+
+Dev
+When We are developing our app that time we use a dev dependencies
+
+normal
+normal are using in production also
+
+if we install npm install -D parcel while other file automatcially install becuase parcel uses all other 
+librares parcel use babel
