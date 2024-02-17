@@ -1,0 +1,26 @@
+1) In industry level if you want to run the project in package.json in script there is start 
+
+2) React element at the end of the day is object
+
+3) when we render to dom that become html element
+
+4) Jsx and React are different
+
+5)Jsx is not a html inside javascript (Jsx is html like syntax)
+
+Two Types of Component
+-> Class based component and functional component
+
+What is componet composition
+composite more than one compoent in single component
+
+
+------------------Lec4---------------------------------------------
+Config Driven Ui
+
+never use index as a key read offical docs 
+(in map suppose you use a ,index)
+and use as a key never use that because 
+in data there is always comes a id
+
+not using key(not acceptable)<<<<<< index as key <<<< unique id (best practice)
