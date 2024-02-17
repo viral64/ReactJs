@@ -24,3 +24,12 @@ and use as a key never use that because
 in data there is always comes a id
 
 not using key(not acceptable)<<<<<< index as key <<<< unique id (best practice)
+
+
+React Hooks
+-> Normal js utility function (facebook developer say)
+->useState() Superpowerful State variables in react
+->useEffect()
+Def : When ever state variable update react rerender the component
+
+In React 16 in every render there is a algorithm name reconiliation algorithm run behind 
