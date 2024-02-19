@@ -33,3 +33,13 @@ React Hooks
 Def : When ever state variable update react rerender the component
 
 In React 16 in every render there is a algorithm name reconiliation algorithm run behind 
+
+why react is fast ?
+because it has a concept of virtual dom and only render that things that require using recoiliation algorithm and react fibre
+
+
+------------------------------------------------------------------------------------Lec 7 ---------------------
+if dependency array is empty =[] =>use effect is called on inital render(just once)
+otherwise everytime is called when you change in component 
+
+

@@ -1,2 +1,4 @@
+import LOGO_URL from '../../Images/logo1.png'
+
 export const CDN_URL="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
-export const LOGO_URL="../../Images/logo1.png";
+export const LOGO_URL1=LOGO_URL ;

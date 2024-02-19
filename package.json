@@ -4,8 +4,8 @@
   "description": "react",
   "main": "App.js",
   "scripts": {
-    "start":"parcel index.html",
-    "build":"parcel build index.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -22,11 +22,13 @@
   },
   "homepage": "https://github.com/viral64/ReactJs#readme",
   "devDependencies": {
+    "@parcel/transformer-jsonld": "^2.11.0",
     "parcel": "^2.11.0",
     "process": "^0.11.10"
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1"
   }
 }
