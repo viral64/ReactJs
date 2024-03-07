@@ -42,4 +42,8 @@ because it has a concept of virtual dom and only render that things that require
 if dependency array is empty =[] =>use effect is called on inital render(just once)
 otherwise everytime is called when you change in component 
 
+Two types of routing
+1)Client side routing
+2)Server side routing
+
 
